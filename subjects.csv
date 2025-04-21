@@ -1,0 +1,97 @@
+subject_id,subject_name,department,semester,faculty_id
+1,Data Structures,Computer Science,1,1
+2,DBMS,Computer Science,1,2
+3,Operating Systems,Computer Science,1,3
+4,AI/ML,Computer Science,1,1
+5,Data Structures,Computer Science,2,3
+6,DBMS,Computer Science,2,3
+7,Operating Systems,Computer Science,2,3
+8,AI/ML,Computer Science,2,2
+9,Data Structures,Computer Science,3,3
+10,DBMS,Computer Science,3,1
+11,Operating Systems,Computer Science,3,3
+12,AI/ML,Computer Science,3,3
+13,Data Structures,Computer Science,4,3
+14,DBMS,Computer Science,4,3
+15,Operating Systems,Computer Science,4,1
+16,AI/ML,Computer Science,4,3
+17,Data Structures,Computer Science,5,1
+18,DBMS,Computer Science,5,2
+19,Operating Systems,Computer Science,5,3
+20,AI/ML,Computer Science,5,2
+21,Data Structures,Computer Science,6,1
+22,DBMS,Computer Science,6,2
+23,Operating Systems,Computer Science,6,1
+24,AI/ML,Computer Science,6,1
+25,Data Structures,Computer Science,7,3
+26,DBMS,Computer Science,7,2
+27,Operating Systems,Computer Science,7,2
+28,AI/ML,Computer Science,7,2
+29,Data Structures,Computer Science,8,2
+30,DBMS,Computer Science,8,2
+31,Operating Systems,Computer Science,8,3
+32,AI/ML,Computer Science,8,1
+33,Circuit Theory,Electronics,1,4
+34,Digital Electronics,Electronics,1,5
+35,Microprocessors,Electronics,1,5
+36,Signals,Electronics,1,6
+37,Circuit Theory,Electronics,2,4
+38,Digital Electronics,Electronics,2,4
+39,Microprocessors,Electronics,2,4
+40,Signals,Electronics,2,6
+41,Circuit Theory,Electronics,3,5
+42,Digital Electronics,Electronics,3,4
+43,Microprocessors,Electronics,3,5
+44,Signals,Electronics,3,4
+45,Circuit Theory,Electronics,4,5
+46,Digital Electronics,Electronics,4,4
+47,Microprocessors,Electronics,4,5
+48,Signals,Electronics,4,5
+49,Circuit Theory,Electronics,5,6
+50,Digital Electronics,Electronics,5,6
+51,Microprocessors,Electronics,5,5
+52,Signals,Electronics,5,5
+53,Circuit Theory,Electronics,6,4
+54,Digital Electronics,Electronics,6,4
+55,Microprocessors,Electronics,6,4
+56,Signals,Electronics,6,5
+57,Circuit Theory,Electronics,7,4
+58,Digital Electronics,Electronics,7,4
+59,Microprocessors,Electronics,7,4
+60,Signals,Electronics,7,6
+61,Circuit Theory,Electronics,8,5
+62,Digital Electronics,Electronics,8,5
+63,Microprocessors,Electronics,8,5
+64,Signals,Electronics,8,4
+65,Thermodynamics,Mechanical,1,7
+66,Fluid Mechanics,Mechanical,1,7
+67,Machine Design,Mechanical,1,9
+68,Manufacturing,Mechanical,1,8
+69,Thermodynamics,Mechanical,2,8
+70,Fluid Mechanics,Mechanical,2,9
+71,Machine Design,Mechanical,2,9
+72,Manufacturing,Mechanical,2,8
+73,Thermodynamics,Mechanical,3,8
+74,Fluid Mechanics,Mechanical,3,8
+75,Machine Design,Mechanical,3,9
+76,Manufacturing,Mechanical,3,8
+77,Thermodynamics,Mechanical,4,7
+78,Fluid Mechanics,Mechanical,4,9
+79,Machine Design,Mechanical,4,9
+80,Manufacturing,Mechanical,4,9
+81,Thermodynamics,Mechanical,5,8
+82,Fluid Mechanics,Mechanical,5,7
+83,Machine Design,Mechanical,5,7
+84,Manufacturing,Mechanical,5,8
+85,Thermodynamics,Mechanical,6,8
+86,Fluid Mechanics,Mechanical,6,7
+87,Machine Design,Mechanical,6,9
+88,Manufacturing,Mechanical,6,9
+89,Thermodynamics,Mechanical,7,9
+90,Fluid Mechanics,Mechanical,7,8
+91,Machine Design,Mechanical,7,7
+92,Manufacturing,Mechanical,7,8
+93,Thermodynamics,Mechanical,8,7
+94,Fluid Mechanics,Mechanical,8,8
+95,Machine Design,Mechanical,8,9
+96,Manufacturing,Mechanical,8,9

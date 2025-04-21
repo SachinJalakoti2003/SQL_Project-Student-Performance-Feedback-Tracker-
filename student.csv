@@ -1,0 +1,121 @@
+student_id,name,age,gender,department,semester
+1,Sharon Webb,21,Male,Mechanical,4
+2,Chase Mcmillan,24,Male,Electronics,2
+3,Samantha Walsh,22,Male,Electronics,3
+4,Shelia Drake,20,Male,Computer Science,1
+5,Sandra Moran,18,Female,Electronics,4
+6,John Burton,22,Female,Mechanical,6
+7,Stephen Davis,23,Female,Computer Science,7
+8,Maria Evans,20,Male,Electronics,1
+9,Kimberly Howard,21,Male,Electronics,2
+10,Chad Haas,21,Female,Mechanical,8
+11,Leonard Douglas,23,Male,Computer Science,8
+12,Michelle Nelson,18,Female,Computer Science,7
+13,Clinton Hampton,24,Male,Computer Science,4
+14,Kelsey Williamson,22,Female,Computer Science,5
+15,Deborah Villanueva,19,Female,Mechanical,8
+16,Danny Brown,23,Female,Mechanical,3
+17,Amber Edwards,22,Male,Mechanical,2
+18,Dr. Christopher Henry,18,Male,Computer Science,4
+19,David Hunt,19,Male,Computer Science,3
+20,Karen Rubio,24,Male,Computer Science,7
+21,Jennifer Hamilton,22,Male,Electronics,8
+22,Kelly Smith,22,Male,Computer Science,4
+23,Angela Morales,19,Female,Mechanical,1
+24,Amy Burch,19,Female,Computer Science,2
+25,Andrew Livingston,19,Female,Computer Science,4
+26,James Davis,20,Female,Computer Science,3
+27,John Phillips,20,Female,Mechanical,3
+28,Lauren Garcia,22,Female,Computer Science,2
+29,Dylan Gonzalez,22,Female,Computer Science,5
+30,Jeffrey Sutton,19,Male,Mechanical,8
+31,Katie Herrera,22,Female,Electronics,5
+32,Johnathan Moore,20,Male,Mechanical,3
+33,Edward Campbell,21,Male,Electronics,3
+34,Ryan York,22,Male,Electronics,3
+35,Dr. Janet Holland DVM,19,Male,Electronics,7
+36,Tammy Lozano,20,Male,Computer Science,5
+37,Jeremy Garcia,23,Male,Mechanical,6
+38,Logan Jackson,24,Female,Electronics,3
+39,Angela Lambert,24,Female,Electronics,7
+40,Anne Scott,19,Male,Electronics,5
+41,Amy Powell,23,Male,Mechanical,1
+42,Michelle Villarreal,19,Male,Mechanical,3
+43,William Chapman,21,Male,Computer Science,1
+44,John Spencer,21,Female,Computer Science,8
+45,Robert Sandoval,24,Male,Mechanical,1
+46,Erica Hernandez,21,Male,Electronics,2
+47,Amanda Silva,21,Female,Mechanical,1
+48,Gregory Bryant,19,Male,Computer Science,3
+49,Nathaniel Pope,24,Male,Mechanical,8
+50,Carl Patterson,19,Male,Electronics,7
+51,Nicolas Smith,18,Male,Mechanical,3
+52,Rhonda Harris,20,Female,Mechanical,2
+53,Tami Hendricks,19,Male,Computer Science,5
+54,Karen Ellis,24,Male,Computer Science,7
+55,Kelly Rogers,18,Male,Electronics,2
+56,Mr. Joshua Smith DVM,22,Male,Electronics,3
+57,James Davidson,22,Female,Electronics,6
+58,Amy Brooks,23,Female,Mechanical,5
+59,Cassidy Valenzuela,21,Male,Mechanical,2
+60,Christina Carter,24,Male,Computer Science,8
+61,Susan Smith,21,Male,Computer Science,2
+62,Daniel Adams,21,Male,Computer Science,3
+63,Jason Smith,19,Female,Computer Science,1
+64,Julie Boone,23,Female,Computer Science,1
+65,Amanda Cochran,19,Female,Electronics,3
+66,Juan Lopez,24,Female,Electronics,6
+67,Mark Cortez,19,Female,Electronics,6
+68,Mrs. Yvette Bates,20,Female,Mechanical,4
+69,Kaitlyn Strickland,23,Male,Computer Science,7
+70,Veronica Garcia,21,Female,Mechanical,3
+71,Derek Haynes,24,Female,Mechanical,8
+72,Harold Edwards,19,Female,Electronics,6
+73,Chris Mcdonald,23,Male,Electronics,5
+74,David Todd,21,Female,Electronics,6
+75,Glenn Murray,20,Female,Electronics,6
+76,Christopher Powell,23,Male,Electronics,3
+77,Holly Johnson,21,Male,Computer Science,4
+78,Tiffany Castro,18,Female,Electronics,5
+79,Bruce Turner,20,Female,Mechanical,4
+80,Kevin Watson,21,Male,Electronics,2
+81,Lisa Harris,22,Female,Mechanical,4
+82,William Arnold,24,Male,Mechanical,2
+83,Shannon Flowers,22,Male,Computer Science,7
+84,Travis Swanson,20,Female,Electronics,6
+85,Julie Clark,20,Female,Electronics,8
+86,Felicia Miller,22,Male,Computer Science,4
+87,Jeffrey Patterson,24,Male,Mechanical,5
+88,Yolanda Knox,20,Female,Computer Science,4
+89,Stephen Roach,18,Female,Computer Science,1
+90,Katie Rose,20,Male,Computer Science,7
+91,Kerry Haley,18,Female,Electronics,8
+92,Melissa Lin,18,Female,Computer Science,5
+93,Kathleen Mckinney,22,Female,Electronics,5
+94,Christina Lee,21,Female,Computer Science,1
+95,Katherine Cox,21,Female,Computer Science,5
+96,Mary Harvey,18,Female,Mechanical,1
+97,Kenneth Kelly,18,Female,Electronics,3
+98,Timothy Knight,24,Male,Computer Science,1
+99,Mathew Rice,19,Male,Electronics,7
+100,Barbara Swanson,18,Female,Computer Science,3
+101,Amanda Smith,20,Female,Mechanical,3
+102,Mrs. Wanda Walton,23,Male,Mechanical,2
+103,Gloria Rowe,19,Female,Computer Science,3
+104,Greg Barry,22,Male,Computer Science,8
+105,Benjamin Reid,23,Male,Computer Science,6
+106,Brandi Carter,18,Male,Mechanical,4
+107,Randy Valdez,22,Male,Computer Science,8
+108,Wesley Joyce,24,Female,Mechanical,2
+109,Carolyn Brown,24,Male,Computer Science,4
+110,Isaiah Henderson,20,Male,Electronics,1
+111,Anthony Miller,24,Female,Mechanical,2
+112,Megan Gallagher,22,Male,Electronics,8
+113,Benjamin Gutierrez,19,Male,Mechanical,7
+114,Trevor Williams,22,Male,Mechanical,8
+115,Kathryn Thomas,23,Female,Electronics,8
+116,John Brown,22,Male,Electronics,3
+117,Steven Anderson,20,Male,Electronics,6
+118,Jennifer Huber,21,Male,Electronics,4
+119,Garrett Hardy,20,Female,Computer Science,5
+120,Rose Anderson,24,Female,Computer Science,1
